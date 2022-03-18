@@ -18,4 +18,5 @@ Todos os projetos desenvolvidos estão na minha página do CodePen https://codep
 - [Alura](https://www.alura.com.br/)
 - [Icons](https://www.flaticon.com/)
 - [Coolors](https://coolors.co/)
+- [Discord](https://discord.com/)
 <br>
