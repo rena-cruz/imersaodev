@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    display: block;
+    max-width: 80%;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    font-family: 'Source Code Pro', monospace;
+    background: radial-gradient(circle, rgba(120,58,106,1) 0%, rgba(188,163,172,1) 100%);
+    background-attachment: fixed;
+    background-size: cover;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    height: 100vh;
+    color: #c08497;    
+}
+
+  .container {
+    padding: 0 16px;
+  }
+  
+  .title {
+    font-size: 36px;
+    font-weight: normal;
+  }
+  
+  .profile {
+    max-width: 452px;
+    box-sizing: border-box;
+    margin: 0 auto;
+  }
+  
+  .box {
+    background: #f3eaf4;
+    padding: 4rem;
+    box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    text-align: center;
+    margin-top: 8rem;
+  }
+  
+  .profile-pic {
+    border-radius: 50%;
+    margin: 0 auto 2rem auto;
+  }
+  
+  .profile span {
+    font-size: 20px;
+  }
+  
+  .profile p {
+    font-size: 18px;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+  }
+  
+  .redes-sociais {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .redes-sociais li {
+    margin-right: 1rem;
+  }
+  
+  .portfolio {
+    max-width: 886px;
+    box-sizing: border-box;
+  }
+
+.portfolio-title{
+  display: flex;
+  justify-content: center;
+}
+
+.portfolio-image {
+  margin-left: 10px;
+}
+  
+  .portfolio ul {
+    margin-top: 3rem;
+  }
+  
+  .portfolio li {
+    display: grid;
+    text-align: left;
+    gap: 1rem;
+    color: #720026;
+  }
+  
+  .portfolio li + li {
+    margin-top: 2rem;
+  }
+  
+  .portfolio img {
+    border-radius: 10px;
+  }
+  
+  .portfolio h2 {
+    font-weight: normal;
+    margin-bottom: 1rem;
+  }
+  
+  .copyright {
+    font-size: 18px;
+    color: #ffdbda;
+    text-shadow: 2px 2px 16px black;
+    margin-top: 20vh;
+    padding-bottom: 5vh;
+    text-align: center;
+  }
